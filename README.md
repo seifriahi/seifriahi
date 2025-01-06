@@ -1,45 +1,44 @@
-<table>
-<tr>
-<td valign="top" style="padding-right: 20px;">
+<div class="Box-body p-4">
+    <div class="d-flex flex-justify-between">
+      <div class="text-mono text-small mb-3">
+        <a href="/marwaniiwael18/marwaniiwael18" class="no-underline Link--primary">marwaniiwael18</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
+      </div>
+    </div>
 
-# Hi 👋, I'm Riahi Seifeddine
-### IT Engineering Student
+    <article class="markdown-body entry-content container-lg f5" itemprop="text">
+        <div style="display: flex; align-items: center; justify-content: space-between;">
+            <div>
+                <h1>Hi 👋, I'm Marwani Wael</h1>
+                <p>IT Engineering Student</p>
+                <ul>
+                    <li>🧠 I’m currently learning <strong>Flutter</strong></li>
+                    <li>📫 How to reach me <strong><a href="mailto:wael.marwani@esprit.tn">wael.marwani@esprit.tn</a></strong></li>
+                    <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/wael-marwani-/">View LinkedIn</a></li>
+                </ul>
+            </div>
+            <img align="right" alt="Coding" width="200" src="https://your-image-url.com/image.png">
+        </div>
 
-- 🌱 I’m currently focused on projects involving [add specific technologies or frameworks], aiming to enhance my skills in [specific areas].
-- 📫 How to reach me: [Seifeddine.Riahi@esprit.tn](mailto:Seifeddine.Riahi@esprit.tn)
-- 🔗 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/seifeddine-riahi-a96a17313/)
+        <h3>Connect with me:</h3>
+        <p>
+            <a href="https://twitter.com/wael_marwanii"><img src="https://your-image-url.com/twitter.svg" alt="wael_marwanii" height="30" width="40"></a>
+            <a href="https://linkedin.com/in/wael marwani"><img src="https://your-image-url.com/linkedin.svg" alt="wael marwani" height="30" width="40"></a>
+            <!-- Additional social links here -->
+        </p>
 
-</td>
-<td>
+        <h3>Languages and Tools:</h3>
+        <p>
+            <a href="https://angular.io"><img src="https://your-image-url.com/angular.svg" alt="Angular" width="40" height="40"></a>
+            <a href="https://spring.io/"><img src="https://your-image-url.com/spring.svg" alt="Spring" width="40" height="40"></a>
+            <!-- Additional icons here -->
+        </p>
 
-<img src="https://camo.githubusercontent.com/c866d24432490b5f664bbadbce526bcea85a2148c7fed96cbe676260b0120030/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578646d4674626d6379634446314d7a463064585a71636e6f34595456354e6a4d7a6133673365577832646d49786132567a4e57563564435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e77656270" alt="Riahi Seifeddin" width="250px" style="display: block; margin-left: auto; margin-right: auto;">
-
-</td>
-</tr>
-</table>
-
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seifeddine-riahi-a96a17313/)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&link=https://www.instagram.com/riahi_seif/)](https://www.instagram.com/riahi_seif/)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&link=https://www.facebook.com/rafed.riahi.73/)](https://www.facebook.com/rafed.riahi.73/)
-
-## Languages and Tools:
-![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)
-![C#](https://img.shields.io/badge/C%23-blue?style=flat-square&logo=csharp)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/SQL-lightblue?style=flat-square&logo=postgresql)
-![C](https://img.shields.io/badge/C-lightgreen?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C%2B%2B-lightgrey?style=flat-square&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
-![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet?style=flat-square&logo=kotlin)
-![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-orange?style=flat-square&logo=linux)
-![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=swift)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=nodedotjs)
-![React.js](https://img.shields.io/badge/React.js-lightblue?style=flat-square&logo=react)
-![NestJS](https://img.shields.io/badge/NestJS-darkred?style=flat-square&logo=nestjs)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=flat-square&logo=springboot)
-![.NET](https://img.shields.io/badge/.NET-blue?style=flat-square&logo=.net)
-
-## Statistics:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seifriahi&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seifriahi&layout=compact&theme=dark)
+        <h3>Statistics</h3>
+        <div align="center">
+            <a href="https://github.com/marwaniiwael18">
+                <img src="https://your-image-url.com/github-stats.svg" height="180em">
+                <img src="https://your-image-url.com/language-stats.svg" height="180em">
+            </a>
+        </div>
+    </article>
+</div>
