@@ -20,7 +20,7 @@
 
 ## Connect with me:
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" style="padding-right: 20px;">](https://www.linkedin.com/in/seifeddine-riahi-a96a17313/)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" style="padding-right: 10px;">](https://www.instagram.com/riahi_seif/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" style="padding-right: 50px;">](https://www.instagram.com/riahi_seif/)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" style="padding-right: 10px;">](https://www.facebook.com/rafed.riahi.73/)
 
 ## Languages and Tools:
