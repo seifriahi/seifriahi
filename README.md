@@ -1,4 +1,4 @@
-<img src="[https://user-images.githubusercontent.com/your-image.png](https://camo.githubusercontent.com/c866d24432490b5f664bbadbce526bcea85a2148c7fed96cbe676260b0120030/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578646d4674626d6379634446314d7a463064585a71636e6f34595456354e6a4d7a6133673365577832646d49786132567a4e57563564435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e77656270)" alt="banner" style="width:100%;">
+<img src="https://user-images.githubusercontent.com/your-image.png" alt="banner" style="width:100%;">
 
 # Hi 👋, I'm Riahi Seifeddine 
 ### IT Engineering Student
@@ -30,5 +30,5 @@
 ![.NET](https://img.shields.io/badge/.NET-blue?style=flat-square&logo=.net)
 
 ## Statistics:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seifriahiE&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?usernam=seifriahi&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seifriahi&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seifriahi&layout=compact&theme=dark)
