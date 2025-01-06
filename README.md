@@ -19,9 +19,9 @@
 </table>
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seifeddine-riahi-a96a17313/)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&link=https://www.instagram.com/riahi_seif/)](https://www.instagram.com/riahi_seif/)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&link=https://www.facebook.com/rafed.riahi.73/)](https://www.facebook.com/rafed.riahi.73/)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/seifeddine-riahi-a96a17313/)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/riahi_seif/)
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/rafed.riahi.73/)
 
 ## Languages and Tools:
 ![JavaScript](https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73)
