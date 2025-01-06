@@ -5,7 +5,7 @@
 # Hi 👋, I'm Riahi Seifeddine
 ### IT Engineering Student
 
-- 🌱 I’m currently focused on projects involving [add specific technologies or frameworks], aiming to enhance my skills in [specific areas].
+- 🌱 I’m currently working on improving my skills
 - 📫 How to reach me: [Seifeddine.Riahi@esprit.tn](mailto:Seifeddine.Riahi@esprit.tn)
 - 🔗 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/seifeddine-riahi-a96a17313/)
 
@@ -31,7 +31,7 @@
 ![C](https://img.shields.io/badge/C-lightgreen?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-lightgrey?style=flat-square&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
-![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet?style=flat-square&logo=kotlin)
+![Kotlin]([https://img.shields.io/badge/Kotlin-blueviolet?style=flat-square&logo=kotlin](https://camo.githubusercontent.com/067a368adacf629b1b09acd4d0c66e7665f7b5520c6d127c5252604b2ed28ce4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6b6f746c696e))
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-orange?style=flat-square&logo=linux)
 ![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=swift)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=nodedotjs)
