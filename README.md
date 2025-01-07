@@ -1,29 +1,30 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwaniiwael18&label=Profile%20views&color=0e75b6&style=flat" alt="marwaniiwael18" /> </p>
-<img align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFtbmcycDF1MzF0dXZqcno4YTV5NjMza3g3eWx2dmIxa2VzNWV5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+<table>
+<tr>
+<td valign="top" style="padding-right: 20px;">
 
-<h1 align="center">Hi 👋, I'm Riahi Seifediine</h1>
-<h3 align="center">IT Engineering Student</h3>
+# Hi 👋, I'm Riahi Seifeddine
+### IT Engineering Student
 
 - 🌱 I’m currently working on improving my skills
-
-- 📫 How to reach me **Seifeddine.Riahi@esprit.tn**
-
+- 📫 How to reach me: [Seifeddine.Riahi@esprit.tn](mailto:Seifeddine.Riahi@esprit.tn)
 - 🔗 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/seifeddine-riahi-a96a17313/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</td>
+<td>
 
-<a href="https://www.linkedin.com/in/seifeddine-riahi-a96a17313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seif riahi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rafed.riahi.73/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riahi seif" height="30" width="40" /></a>
-<a href="https://www.instagram.com/riahi_seif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Riahi-Seif" height="30" width="40" /></a>
+<img src="https://camo.githubusercontent.com/c866d24432490b5f664bbadbce526bcea85a2148c7fed96cbe676260b0120030/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578646d4674626d6379634446314d7a463064585a71636e6f34595456354e6a4d7a6133673365577832646d49786132567a4e57563564435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e77656270" alt="Riahi Seifeddin" width="250px" style="display: block; margin-left: auto; margin-right: auto;">
 
-</p>
+</td>
+</tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
+## Connect with me:
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" style="padding-right: 20px;">](https://www.linkedin.com/in/seifeddine-riahi-a96a17313/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" style="padding-right: 50px;">](https://www.instagram.com/riahi_seif/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" style="padding-right: 10px;">](https://www.facebook.com/rafed.riahi.73/)
 
-<div align="left">
-  <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
-  ![JavaScript](https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73)
+## Languages and Tools:
+![JavaScript](https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73)
 ![Java](https://camo.githubusercontent.com/9e02c0426b198d80f933ea32f92142c36ce703345e524caa6c7f38fa338aaf9f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661)
 ![C#](https://camo.githubusercontent.com/ffa7b120ef5eca755e9a119e96882fe9743634dec1970a0c8076907390c9c989/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6373)
 ![Express.js](https://camo.githubusercontent.com/eed59029fe16e0f33431721522fb0eede534a072db478245b89b6bc4ab1b10f3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373)
@@ -41,12 +42,10 @@
 ![.NET](https://camo.githubusercontent.com/3ebcfced2ff64f782087eb5b242c44db6acbd5989c635d12664a7300c5676dfd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f746e6574)
 ![mongoodb](https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462)
 
-</div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/marwaniiwael18">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seifriahi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seifriahi&theme=2077" height="180em" />
-</div>
+## Statistics:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seifriahi&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seifriahi&layout=compact&theme=dark)
+
+
