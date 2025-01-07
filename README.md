@@ -41,6 +41,8 @@
 ![Spring Boot](https://camo.githubusercontent.com/90b107006a1756453114e6782a2592c05b94452232f63a5ee3742f9417ade939/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d737072696e67)
 ![.NET](https://camo.githubusercontent.com/3ebcfced2ff64f782087eb5b242c44db6acbd5989c635d12664a7300c5676dfd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f746e6574)
 ![mongoodb](https://camo.githubusercontent.com/8c779088a37e29fdc8fca5576357aa67c86f30041734226d17f70e150eececdf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462)
+![figma](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg)
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">
